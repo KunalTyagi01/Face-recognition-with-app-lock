@@ -1,5 +1,4 @@
 # Face-Recognition in Python
-Face Recognition tutorial refference for https://youtu.be/BG3mpdzk0Rw
 
 
 # Prerequisites
